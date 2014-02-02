@@ -2,7 +2,7 @@
 
 <img src="featuredimage.jpg">
 
-## What is FeaturedImage?
+## What is FeaturedImage?_
 
 FeaturedImage is a finder that extract featured image from a web page.
 
